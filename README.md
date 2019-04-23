@@ -1,3 +1,7 @@
+**This repository has been archived and is no longer maintained. Please go to:**
+
+https://github.com/ni/niveristand-scan-engine-module-libraries
+
 # NI VeriStand Scan Engine Module Libraries
 
 Support for different modules in the Scan Engine Custom Device.
